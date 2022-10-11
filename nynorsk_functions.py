@@ -59,7 +59,7 @@ def method_ommeg():
         st.markdown('<p style="font-family:Times New Roman;font-size:20px;color: #273746">Norsklærar med lidenskap '
                     'for godt, tydeleg og korrekt språk.</p>', unsafe_allow_html=True)
         st.markdown('<p style="font-family:Times New Roman;font-size:20px;color: #273746">Har språkvaska akademiske '
-                    'tekstar frå 2005.</p>',
+                    'tekstar sidan 2005.</p>',
                     unsafe_allow_html=True)
 
 
