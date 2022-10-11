@@ -44,7 +44,7 @@ selected_nynorsk = ''
 selected_bokmaal = ''
 
 # Use a background image
-bg_image.set_png_as_page_bg('images/bg_2.png')
+bg_image.set_png_as_page_bg('bg_2.png')
 
 
 # change the color and the dimension of sidebar
