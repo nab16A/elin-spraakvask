@@ -81,7 +81,7 @@ def kontakt():
     common_functions.change_header_kontakt("Kontakt meg! 👉 📬 ")
     st.write('#')
 
-    contact_form = """<form action="https://formsubmit.co/0d93a5cadb13d41eabbc7206e0136813" method="POST"> <input 
+    contact_form = """<form action="https://formsubmit.co/c9ceb87d17a7a5425aa1f0ca1cb9b200" method="POST"> <input 
     type="hidden" name="_captcha" value="false"> <input type="text" name="name" style="font-family:'Times New 
     Roman';font-size:20px;" placeholder="Ditt navn" required> <input type="email" name="email" 
     style="font-family:'Times New Roman';font-size:20px;" placeholder="Din epost" required> <textarea name="message" 
