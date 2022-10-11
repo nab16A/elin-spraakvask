@@ -2,8 +2,8 @@ import streamlit as st
 from PIL import Image
 import common_functions
 
-logo = Image.open(r'images\logo_edc.png')
-picture = Image.open(r'images\elin.png')
+logo = Image.open(r'logo_edc.png')
+picture = Image.open(r'elin.png')
 
 
 def main_method():
