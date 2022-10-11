@@ -65,7 +65,7 @@ def method_ommeg():
                     'for godt, tydelig og korrekt '
                     'språk.</p>', unsafe_allow_html=True)
         st.markdown('<p style="font-family:Times New Roman;font-size:20px;color: #273746">Har språkvasket akademiske '
-                    'tekster fra 2005.</p>',
+                    'tekster siden 2005.</p>',
                     unsafe_allow_html=True)
 
 
